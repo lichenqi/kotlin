@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">麻花优选</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">品牌</string>
+    <string name="title_notifications">发圈</string>
+    <string name="third_title"></string>
+    <string name="mine_title">我的</string>
+</resources>

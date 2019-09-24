@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/title_home"/>
+
+    <item
+            android:id="@+id/brand"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/title_dashboard"/>
+
+    <item
+            android:id="@+id/vip"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="会员"/>
+
+    <item
+            android:id="@+id/circle"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="发圈"/>
+
+    <item
+            android:id="@+id/mine"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="我的"/>
+
+</menu>
